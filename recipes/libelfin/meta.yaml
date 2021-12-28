@@ -1,6 +1,6 @@
 {% set name = "libelfin" %}
-{% set version = "0.2" %}
-{% set sha256 = "ecbe3d482697245ac6fbac7dfd24e4e5b37b76cd860592e94385620e3238a179" %}
+{% set version = "0.3" %}
+{% set sha256 = "c338942b967582922b3514b54b93175ca9051a9668db92dd8ef619824d443ac7" %}
 
 package:
   name: {{ name }}
